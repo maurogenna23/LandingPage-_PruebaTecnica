@@ -6,7 +6,7 @@ const Eventos = () => {
 
     const cardData = [
         {
-            title: "Conciert",
+            title: "Concierto",
             descripcion: ' Fecha',
             descripcion2: 'Hora',
             imageUrl: concierto,
